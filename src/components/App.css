@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(120deg, #2980b9, #6dd5fa);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.appContainer {
+    width: 400px;
+    max-height: 1200px;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border: solid 1px blue;
+    border-radius: 8px;
+}
